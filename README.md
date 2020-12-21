@@ -91,7 +91,7 @@ uwucode does not enforce typing and is interpreted. It is also independent of wh
 
 ```owo var = value :3```
 
-For the sake of reference, `:3` can be replaced with `;`. For defining functions, the keyword `owo` is utilised:
+For the sake of reference, `:3` can be replaced with `;`. For defining functions, the keyword `uwu` is utilised:
 
 ```
 uwu square(x) {sugoi x*x;};
