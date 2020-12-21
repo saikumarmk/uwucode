@@ -1,0 +1,13 @@
+
+
+uwu fib(x) {
+    nuzzles (x<=1) {
+        sugoi x;
+    }
+    rawr {
+        sugoi fib(x-1)+fib(x-2);
+    };
+};
+
+dprint(fib(10));
+dprint(fib(20)); /* This takes a very long time to evaluate. */

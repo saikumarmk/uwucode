@@ -1,0 +1,15 @@
+owo hehexd = 1;
+
+/* Comments can be written similar to Rust/C++. */
+uwu fact(lel) {
+    nuzzles (lel==hehexd) {
+        sugoi lel;
+    }
+    rawr {
+        sugoi lel*fact(lel-hehexd);
+    };
+};
+
+/* One can use dprint to print function values */
+dprint(fact(4));
+dprint(fact(20));

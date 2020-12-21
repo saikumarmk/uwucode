@@ -1,0 +1,29 @@
+
+/* Not operational as of now. */
+uwu fizzbuzz(x) {
+    nuzzles (x==0) {
+        dprint("Done!");
+    }
+
+    rawr {
+        nuzzles (x%3==0) {
+            nuzzles (x%5==0) {
+                dprint("FizzBuzz");
+                sugoi fizzbuzz(x-1);
+            }
+
+            rawr {
+                dprint("Fizz");
+                sugoi fizzbuzz(x-1);
+            };
+        }
+
+        rawr {
+            nuzzles (x%5==0) {
+                dprint("Buzz");
+                sugoi fizzbuzz(x-1);
+            };
+        };
+    };
+};
+fizzbuzz(10);
