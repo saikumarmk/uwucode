@@ -10,8 +10,6 @@
   <p align="center">
     A language based around egirl slang...
     <br />
-    <a href="https://github.com/Theorvolt/uwucode"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/Theorvolt/uwucode/issues">Report Bug / Request Feature</a>
   </p>
